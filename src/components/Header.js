@@ -7,7 +7,7 @@ export default function Header() {
         <AppBar position="fixed" sx={{bgcolor: '#FF4C4C'}}>
             <Container maxWidth="xl">
                 <Toolbar disableGutters sx={{ justifyContent: 'space-between' }}>
-                    <Typography>Vitto Web</Typography>
+                    <Typography fontFamily={'Comforter'} fontSize={'40px'}>Vitto Web</Typography>
                 </Toolbar>
             </Container>
         </AppBar>
